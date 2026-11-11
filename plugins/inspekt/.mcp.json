@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "inspekt": {
+      "command": "npx",
+      "args": ["-y", "@inspekt-gg/mcp"],
+      "env": {
+        "INSPEKT_KEY": "${INSPEKT_KEY}",
+        "INSPEKT_SECRET": "${INSPEKT_SECRET:-}"
+      }
+    }
+  }
+}

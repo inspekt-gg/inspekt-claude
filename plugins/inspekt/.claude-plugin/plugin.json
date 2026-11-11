@@ -1,0 +1,13 @@
+{
+  "name": "inspekt",
+  "version": "0.1.0",
+  "description": "The inspekt skill and MCP server: render CS2 skin stills, build 3D embed code, look up inventories.",
+  "author": {
+    "name": "Inspekt",
+    "url": "https://inspekt.gg"
+  },
+  "homepage": "https://inspekt.gg",
+  "repository": "https://github.com/inspekt-gg/inspekt-claude",
+  "license": "MIT",
+  "keywords": ["cs2", "counter-strike", "skins", "mcp", "embed"]
+}

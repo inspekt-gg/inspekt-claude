@@ -1,0 +1,15 @@
+{
+  "name": "inspekt",
+  "description": "Claude Code plugins for inspekt.gg, the CS2 skin renderer and embed service.",
+  "owner": {
+    "name": "Inspekt",
+    "url": "https://inspekt.gg"
+  },
+  "plugins": [
+    {
+      "name": "inspekt",
+      "source": "./plugins/inspekt",
+      "description": "The inspekt skill and MCP server: render CS2 skin stills, build 3D embed code, look up inventories."
+    }
+  ]
+}
